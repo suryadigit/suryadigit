@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋, I'm Suryadi Simanungkalit</h2>
-<h3 align="center">Interested in Mobile Flutter</h3>
+<h3 align="center">Hi 👋, I'm Suryadi Simanungkalit</h3>
+<h4 align="center">Interested in Mobile Flutter</h4>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
