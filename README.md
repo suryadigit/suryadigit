@@ -9,9 +9,10 @@
   <a href="https://www.linkedin.com/in/suryadi-s-560048291/">
     <img src="https://raw.githubusercontent.com/Quadrified/Quadrified/master/assets/svg/social/linkedin.svg" alt="npm" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://profiles.topcoder.com/suryadixdev">
-    <img src="https://raw.githubusercontent.com/Quadrified/Quadrified/master/assets/svg/social/topcoder.svg" alt="npm" style="vertical-align:top; margin:4px">
-  </a>
+ <a href="https://profiles.topcoder.com/suryadixdev" target="_blank">
+  <img src="https://raw.githubusercontent.com/Quadrified/Quadrified/master/assets/svg/social/topcoder.svg" alt="Topcoder" style="vertical-align:top; margin:4px; height: 30px; width: 40px;" />
+</a>
+
   <a href="https://www.wa.me/+6282277266175">
     <img src="https://raw.githubusercontent.com/Quadrified/Quadrified/master/assets/svg/social/whatsapp.svg" alt="npm" style="vertical-align:top; margin:4px">
   </a>
