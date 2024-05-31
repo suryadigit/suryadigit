@@ -31,7 +31,7 @@
 
 <h3 align="left">Github Stats</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=suryadigit&show_icons=true&locale=en&theme=dark" alt="suryadigit" />
 </p>
 
