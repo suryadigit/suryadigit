@@ -1,6 +1,5 @@
 <h3 align="left">Hi 👋, I'm Suryadi Simanungkalit</h3>
 <h4 align="left">Interested in Mobile Flutter</h4>
-<hr style="border: none; border-top: 1px solid #000; margin: 0; height: 1px;">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
