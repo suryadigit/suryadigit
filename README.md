@@ -1,6 +1,6 @@
 <h3 align="center">Hi 👋, I'm Suryadi Simanungkalit</h3>
 <h4 align="center">Interested in Mobile Flutter</h4>
-<hr style="border: none; border-top: 1px solid #000;">
+<hr style="border: none; border-top: 1px solid #000; margin: 0; height: 1px;">
 <h3 align="center">Connect with me:</h3>
 <p align="center">
  </p>
