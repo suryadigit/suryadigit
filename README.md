@@ -57,7 +57,6 @@
 <img src="https://img.shields.io/badge/Github-282C34?logo=Github&logoColor=white" alt="Github logo" title="Github" height="35" />
 <img src="https://img.shields.io/badge/Visual_Studio_Code-282C34?logo=visual%20studio%20code&logoColor=0078D4" alt="Visual_Studio_Code logo" title="Visual_Studio_Code" height="35" />
 <img src="https://img.shields.io/badge/Android_Studio-282C34?logo=android-studio&logoColor=3DDC84" alt="Android Studio logo" title="Android Studio" height="35" />
-<img src="https://img.shields.io/badge/Colab-282C34?logo=googlecolab&logoColor=F9AB00" alt="Colab logo" title="Colab" height="35" />
 <img src="https://img.shields.io/badge/Postman-282C34?logo=Postman&logoColor=F24E1E" alt="Postman logo" title="Postman" height="35" />
 <img src="https://img.shields.io/badge/Figma-282C34?logo=Figma&logoColor=F24E1E" alt="Figma logo" title="Figma" height="35" />
 <img src="https://img.shields.io/badge/Git-282C34?logo=Git&logoColor=F34E68" alt="Git logo" title="Git" height="35" />
