@@ -31,13 +31,10 @@
 
 <h3 align="left">Github Stats</h3>
 
-<p align="left">
+<div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=suryadigit&show_icons=true&locale=en&theme=dark" alt="suryadigit" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suryadigit&show_icons=true&locale=en&layout=compact&theme=dark" alt="suryadigit" />
-</p>
+</div>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryadigit&theme=dark" alt="suryadigit" />
