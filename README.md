@@ -1,11 +1,11 @@
-<h3 align="center">Hi 👋, I'm Suryadi Simanungkalit</h3>
-<h4 align="center">Interested in Mobile Flutter</h4>
+<h3 align="left">Hi 👋, I'm Suryadi Simanungkalit</h3>
+<h4 align="left">Interested in Mobile Flutter</h4>
 <hr style="border: none; border-top: 1px solid #000; margin: 0; height: 1px;">
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/suryadi-s-560048291/">
     <img src="https://raw.githubusercontent.com/Quadrified/Quadrified/master/assets/svg/social/linkedin.svg" alt="npm" style="vertical-align:top; margin:4px">
   </a>
