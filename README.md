@@ -29,10 +29,11 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">Streak Stats</h3>
-
+<h3 align="left">Github Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryadigit&show_icons=true&locale=en&layout=compact&theme=dark" alt="suryadigit" /></p>
 
+<h3 align="left">Trophy from Github</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suryadigit&show_icons=true&locale=en&theme=dark" alt="suryadigit" /></p>
 
+<h3 align="left">Streak Stats</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryadigit&theme=dark" alt="suryadigit" /></p>
