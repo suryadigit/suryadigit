@@ -64,4 +64,12 @@
 
 </p>
 
+## Operation System
 
+<p>
+
+<img src="https://img.shields.io/badge/Windows-282C34?logo=Windows&logoColor=0078D6" alt="Windows logo" title="Windows" height="35" />
+<img src="https://img.shields.io/badge/Windows-282C34?logo=Linux&logoColor=0078D6" alt="Linux logo" title="Windows" height="35" />
+
+
+</p>
