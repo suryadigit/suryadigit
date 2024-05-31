@@ -1,6 +1,6 @@
 <h3 align="center">Hi 👋, I'm Suryadi Simanungkalit</h3>
 <h4 align="center">Interested in Mobile Flutter</h4>
-
+<hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://dev.to/suryadigit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="suryadigit" height="30" width="40" /></a>
