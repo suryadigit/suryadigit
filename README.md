@@ -3,10 +3,22 @@
 <hr style="border: none; border-top: 1px solid #000;">
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://dev.to/suryadigit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="suryadigit" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/suryadi-s-560048291/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suryadi simanungkalit" height="30" width="40" /></a>
-<a href="https://instagram.com/suryaditr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suryaditr" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/suryadixdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="suryadixdev" height="30" width="40" /></a>
+ 
+<p align="center">
+  <a href="https://www.linkedin.com/in/suryadi-s-560048291/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suryadi simanungkalit" height="30" width="40" />
+    LinkedIn
+  </a>
+  <br>
+  <a href="https://instagram.com/suryaditr" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suryaditr" height="30" width="40" />
+    Instagram
+  </a>
+  <br>
+  <a href="https://www.topcoder.com/members/suryadixdev" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="suryadixdev" height="30" width="40" />
+    Topcoder
+  </a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryadigit&label=Profile%20views&color=0e75b6&style=flat" alt="suryadigit" /> </p>
