@@ -14,16 +14,7 @@
 <h3 align="left">Trophy from Github</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suryadigit&theme=darkhub" alt="suryadigit" /></a> </p>
 
-## Languages
-<p>
-<img src="https://img.shields.io/badge/Dart-282C34?logo=Dart&logoColor=0175C2" alt="Dart logo" title="Dart" height="35" />
-
-<img src="https://img.shields.io/badge/Kotlin-282C34?logo=Kotlin&logoColor=ED8B00" alt="Kotlin logo" title="Kotlin" height="35" />
  
-<img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=3776AB" alt="Python logo" title="Python" height="35" />
-
-</p>
-
 ## Github Stats
 
 <div style="display: flex; justify-content: center; align-items: center;">
