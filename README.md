@@ -40,7 +40,7 @@
 <p>
 
 <img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=3776AB" alt="Python logo" title="Python" height="35" />
-<img src="https://img.shields.io/badge/Kotlin-282C34?logo=Kotlin&logoColor=3776AB" alt="Kotlin logo" title="Kotlin" height="35" />
+<img src="https://img.shields.io/badge/ReactJS-282C34?logo=ReactJS&logoColor=3776AB" alt="ReactJS logo" title="ReactJS" height="35" />
 <img src="https://img.shields.io/badge/Dart-282C34?logo=Dart&logoColor=0175C2" alt="Dart logo" title="Dart" height="35" />
 
 </p>
