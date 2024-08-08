@@ -11,14 +11,9 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryadigit&label=Profile%20views&color=0e75b6&style=flat" alt="suryadigit" /> </p>
+
 ## Trophy from Github
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suryadigit&theme=darkhub" alt="suryadigit" /></a> </p>
-<p align="center">
-    <a href="https://github.com/suryadigit/suryadigit">
-        <img src="https://github-profile-trophy.vercel.app/?username=suryadigit&column=-1&theme=darkhub&layout=compact"width="95%"/> 
-</p>
-
-
  
 ## Github Stats
 
