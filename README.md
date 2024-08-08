@@ -13,18 +13,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryadigit&label=Profile%20views&color=0e75b6&style=flat" alt="suryadigit" /> </p>
 
 ## Trophy from Github
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suryadigit&theme=darkhub" alt="suryadigit" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suryadigit&theme=dracula" alt="suryadigit" /></a> </p>
  
 ## Github Stats
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=suryadigit&show_icons=true&locale=en&theme=dark" alt="suryadigit" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suryadigit&show_icons=true&locale=en&theme=dracula" alt="suryadigit" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suryadigit&show_icons=true&locale=en&layout=compact&theme=dark" alt="suryadigit" style="height: 195px;" />
 </div>
 
 ## Streak Stats
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryadigit&theme=dark" alt="suryadigit" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryadigit&theme=dracula" alt="suryadigit" />
 </p>
 
 ## Languages
