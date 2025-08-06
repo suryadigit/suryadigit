@@ -28,9 +28,8 @@
 </div>
 
 ## Streak Stats
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryadigit&theme=dracula" alt="suryadigit" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suryadigit&theme=dark)](https://git.io/streak-stats)
+
 
 ## Languages
 <p>
