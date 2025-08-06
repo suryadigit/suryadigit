@@ -14,10 +14,12 @@
 
 ## Trophy from Github
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suryadigit&theme=onedark" alt="suryadigit" /></a> </p>
-<p align = "left">
-  <a href="https://github-profile-trophy.vercel.app/?username=suryadigit&title=-Stars,-Issues,-Reviews" alt="suryadigit" />
-</a>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=suryadigit&title=-Stars,-Issues,-Reviews&theme=onedark" alt="GitHub Trophy" />
+  </a>
 </p>
+
 
 ## Github Stats
 
