@@ -15,7 +15,7 @@
 ## Trophy from Github
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=suryadigit&title=-Stars,-Issues,-Reviews&theme=onedark" alt="GitHub Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=suryadigit&title=-Stars,-Issues,-Reviews&theme=tokyonight" alt="GitHub Trophy" />
   </a>
 </p>
 
@@ -24,7 +24,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=suryadigit&show_icons=true&locale=en&theme=tokyonight" alt="suryadigit" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suryadigit&show_icons=true&locale=en&layout=compact&theme=radical" alt="suryadigit" style="height: 195px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suryadigit&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="suryadigit" style="height: 195px;" />
 </div>
 
 ## Streak Stats
