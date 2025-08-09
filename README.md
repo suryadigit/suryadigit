@@ -15,7 +15,7 @@
 ## Trophy from Github
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=suryadigit&title=-Stars,-Issues,-Reviews&theme=tokyonight" alt="GitHub Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=suryadigit&title=-Stars,-Issues,-Reviews&theme=radical" alt="GitHub Trophy" />
   </a>
 </p>
 
