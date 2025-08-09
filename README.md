@@ -24,7 +24,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=suryadigit&show_icons=true&locale=en&theme=dracula" alt="suryadigit" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suryadigit&show_icons=true&locale=en&layout=compact&theme=dracula" alt="suryadigit" style="height: 195px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suryadigit&show_icons=true&locale=en&layout=compact&theme=radical" alt="suryadigit" style="height: 195px;" />
 </div>
 
 ## Streak Stats
