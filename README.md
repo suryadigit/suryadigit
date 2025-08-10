@@ -35,7 +35,6 @@
 <p>
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="35" />
 <img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=3776AB" alt="Python logo" title="Python" height="35" />
-<img src="https://img.shields.io/badge/Kotlin-282C34?logo=Kotlin&logoColor=3776AB" alt="Kotlin logo" title="Kotlin" height="35" />
 <img src="https://img.shields.io/badge/React-282C34?logo=React&logoColor=3776AB" alt="ReactJS logo" title="ReactJS" height="35" />
 <img src="https://img.shields.io/badge/Dart-282C34?logo=Dart&logoColor=0175C2" alt="Dart logo" title="Dart" height="35" />
 
