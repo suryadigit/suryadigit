@@ -19,14 +19,6 @@
   </a>
 </p>
 
-
-## Github Stats
-
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=suryadigit&show_icons=true&locale=en&theme=tokyonight" alt="suryadigit" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suryadigit&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="suryadigit" style="height: 195px;" />
-</div>
-
 ## Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suryadigit&theme=dark)](https://git.io/streak-stats)
 
