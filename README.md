@@ -9,12 +9,10 @@
     <img src="https://raw.githubusercontent.com/Quadrified/Quadrified/master/assets/svg/social/linkedin.svg" alt="npm" style="vertical-align:top; margin:4px">
   </a>
 </p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryadigit&label=Profile%20views&color=0e75b6&style=flat" alt="suryadigit" /> </p>
 
 ## Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suryadigit&theme=dark)](https://git.io/streak-stats)
-
 
 ## Languages
 <p>
@@ -22,32 +20,11 @@
 <img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=3776AB" alt="Python logo" title="Python" height="35" />
 <img src="https://img.shields.io/badge/React-282C34?logo=React&logoColor=3776AB" alt="ReactJS logo" title="ReactJS" height="35" />
 <img src="https://img.shields.io/badge/Dart-282C34?logo=Dart&logoColor=0175C2" alt="Dart logo" title="Dart" height="35" />
-
-</p>
-
-## Framework
-<p>
-<img src="https://img.shields.io/badge/Flutter-282C34?logo=Flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="35" />
-</p>
-
-## Develop Tools
-<p>
-
-<img src="https://img.shields.io/badge/Github-282C34?logo=Github&logoColor=white" alt="Github logo" title="Github" height="35" />
-<img src="https://img.shields.io/badge/Visual_Studio_Code-282C34?logo=visual%20studio%20code&logoColor=0078D4" alt="Visual_Studio_Code logo" title="Visual_Studio_Code" height="35" />
-<img src="https://img.shields.io/badge/Android_Studio-282C34?logo=android-studio&logoColor=3DDC84" alt="Android Studio logo" title="Android Studio" height="35" />
-<img src="https://img.shields.io/badge/Postman-282C34?logo=Postman&logoColor=F24E1E" alt="Postman logo" title="Postman" height="35" />
-<img src="https://img.shields.io/badge/Figma-282C34?logo=Figma&logoColor=F24E1E" alt="Figma logo" title="Figma" height="35" />
-<img src="https://img.shields.io/badge/Git-282C34?logo=Git&logoColor=F34E68" alt="Git logo" title="Git" height="35" />
-
 </p>
 
 ## Operation Systems
 
 <p>
-
 <img src="https://img.shields.io/badge/Windows-282C34?logo=Windows&logoColor=0078D6" alt="Windows logo" title="Windows" height="35" />
 <img src="https://img.shields.io/badge/Linux-282C34?logo=Linux&logoColor=0078D6" alt="Linux logo" title="Linux" height="35" />
-
-
 </p>
