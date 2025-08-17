@@ -1,15 +1,15 @@
-<h3 align="left">Hello World!👋, I'm Suryadi Simanungkalit</h3>
-<h4 align="left">Software Developer</h4>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Hello World!👋, I'm Suryadi Simanungkalit</h3>
+<h4 align="center">Software Developer</h4>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/suryadi-s-560048291/">
     <img src="https://raw.githubusercontent.com/Quadrified/Quadrified/master/assets/svg/social/linkedin.svg" alt="npm" style="vertical-align:top; margin:4px">
   </a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suryadigit&label=Profile%20views&color=0e75b6&style=flat" alt="suryadigit" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=suryadigit&label=Profile%20views&color=0e75b6&style=flat" alt="suryadigit" /> </p>
 
 ## Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suryadigit&theme=dark)](https://git.io/streak-stats)
