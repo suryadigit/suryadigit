@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suryadi Simanungkalit</h1>
-<h3 align="center">Software Developer | Building Scalable & Modern Applications</h3>
+<h3 align="center">Software Developer | Building Scalable & Modern Applications Web and Mobile</h3>
 
 ---
 
@@ -36,13 +36,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suryadigit&show_icons=true&theme=github_dark&hide_border=true" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryadigit&theme=github-dark-blue&hide_border=true" height="150" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suryadigit&theme=flat&no-frame=true&margin-w=15" />
 </p>
 
 ---
