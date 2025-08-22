@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suryadi Simanungkalit</h1>
+<h1 align="center">Hi, I'm Suryadi Simanungkalit</h1>
 <h3 align="center">Software Developer | Building Scalable & Modern Applications Web and Mobile</h3>
 
 ---
