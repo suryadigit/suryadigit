@@ -24,7 +24,7 @@
 
 ---
 
-### 💻 Operating Systems
+### 💻 Operating System
 <p align="center">
   <img src="https://img.shields.io/badge/Windows-282C34?logo=windows&logoColor=0078D6" height="28"/>
   <img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FCC624" height="28"/>
