@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suryadi Simanungkalit</h1>
 <h3 align="center">Mobile & Web Developer • Building Scalable Applications</h3>
 
----z
+---
 
 ### 🚀 About Me
 
