@@ -3,7 +3,7 @@
 
 --
 
-### 🚀 About Me
+### 🚀 About Med
 
 - 💻 Mobile & Web Developer with focus on **performance & scalability**
 - ⚙️ Skilled in **Flutter, React, REST API integration**
