@@ -18,4 +18,4 @@ I am a software engineer focused on performance, scalable infrastructure, and cl
 ---
 
 #### Connect
-[LinkedIn](https://www.linkedin.com/in/suryadi-s-560048291/) &nbsp;•&nbsp; [Email](mailto:suryadigit@gmail.com) &nbsp;•&nbsp; [GitHub](https://github.com/suryadigit)
+[LinkedIn](https://www.linkedin.com/in/suryadi-s-560048291/) &nbsp;•&nbsp; [Email](mailto:suryadigit@gmail.com)
