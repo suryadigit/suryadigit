@@ -1,52 +1,21 @@
-<h1 align="center">👋, I'm Suryadi Simanungkalit</h1>
-<h3 align="center">Mobile & Web-Developer • Building Scalable Applications</h3>
+# Mac (Suryadi Simanungkalit)
+### Mobile & Web Developer • Building Scalable Applications
 
---
-
-### 🚀 About Mes
-
-- 💻 Mobile & Web Developer with focus on **performance & scalability**
-- ⚙️ Skilled in **Flutter, React, REST API integration**
-- 🧠 Currently learning **Backend (Node.js), System Design & Architecture**
-- 🎯 Passionate about building **production-ready applications with clean architecture**
+I am a software engineer focused on performance, scalable infrastructure, and clean architecture. I specialize in building production-ready mobile and web applications, handling everything from frontend interfaces to backend integrations.
 
 ---
 
-### 🛠 Tech Stack
+#### Technical Expertise
+* **Languages & Frameworks:** Flutter, React, Dart, JavaScript, TypeScript, Node.js, Python
+* **Infrastructure & Database:** PostgreSQL, Docker, REST API Integration
+* **Core Focus:** System Design, Clean Architecture, Asynchronous Data Flows
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,flutter,dart,nodejs,python" />
-</p>
-
----
-
-### 🧩 Experience Highlights
-
-- ⚡ Built and maintained **production-level mobile applications**
-- 🔗 Integrated complex **REST APIs & asynchronous data flows**
-- 🚀 Optimized app performance & improved UX
-- 🏗 Applied **clean architecture & scalable system design**
+#### Experience Highlights
+* **Production Systems:** Built and maintained production-level mobile and desktop applications, including optimized point-of-sale software.
+* **Performance Optimization:** Engineered complex API integrations, improved rendering performance, and refined overall user experiences.
+* **Scalable Architecture:** Applied clean architecture principles to ensure maintainable and robust software solutions.
 
 ---
 
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/suryadi-s-560048291/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:suryadigit@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/suryadigit">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-### ⚡ Current Focus
-
-> Building scalable, maintainable, and high-performance applications using clean architecture and modern technologies.
-
----
+#### Connect
+[LinkedIn](https://www.linkedin.com/in/suryadi-s-560048291/) &nbsp;•&nbsp; [Email](mailto:suryadigit@gmail.com) &nbsp;•&nbsp; [GitHub](https://github.com/suryadigit)
