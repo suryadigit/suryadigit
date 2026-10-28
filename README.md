@@ -1,4 +1,4 @@
-# Mac (Suryadi Simanungkalit)
+# Suryadi Simanungkalit
 ### Mobile & Web Developer • Building Scalable Applications
 
 I am a software engineer focused on performance, scalable infrastructure, and clean architecture. I specialize in building production-ready mobile and web applications, handling everything from frontend interfaces to backend integrations.
